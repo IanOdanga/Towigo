@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1001698229110",
+    "project_id": "towigo-mobile-app",
+    "storage_bucket": "towigo-mobile-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1001698229110:android:257e21ca6c7e38ddfed857",
+        "android_client_info": {
+          "package_name": "com.compamny.towigo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1001698229110-b968lc05evqb46r1sgci56kdlrnv3at1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnHWW-7kxU-sZZEvN8f4amGBMuNUc2h1k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1001698229110-b968lc05evqb46r1sgci56kdlrnv3at1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
